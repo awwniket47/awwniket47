@@ -84,7 +84,6 @@ class Aniket(Readme):
 
 <div align="center">
 
-### 🐍 My Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/awwniket47/awwniket47/output/github-snake-dark.svg" />
