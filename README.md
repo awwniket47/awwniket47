@@ -91,7 +91,6 @@ class Aniket(Readme):
 
 <div align="center">
 
-### ◈ Contribution Snake
 
 <br/>
 
