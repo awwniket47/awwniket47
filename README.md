@@ -1,16 +1,24 @@
-## Hi there 👋
+![Profile Views](https://komarev.com/ghpvc/?username=awwniket47&color=brightgreen)
 
-<!--
-**awwniket47/awwniket47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+from GitHub import Readme
 
-Here are some ideas to get you started:
+class Aniket(Readme):
+    def __init__(self):
+        self.name       = "Aniket"
+        self.role       = "Developer | Cybersecurity | Trader"
+        self.github     = "@awwniket47"
+        self.location   = "Indore, India 🇮🇳"
+        self.certs      = ["Palo Alto Networks", "Datagami"]
+        self.trading    = "XAUUSD · ICT · Prop Firm (FundingPips & GoatFunded)"
+        self.building   = "RetailMind — FastAPI + React + ChromaDB"
+        self.deployed   = "AWS EC2 + GitHub Actions CI/CD"
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=awwniket47&show_icons=true&theme=tokyonight&hide_border=true)
+
+## 🛠 Tech Stack
+
+`Python` `FastAPI` `React` `Docker` `AWS EC2` `ChromaDB` `GitHub Actions` `Palo Alto Networks`
