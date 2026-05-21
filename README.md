@@ -25,7 +25,6 @@ class Aniket(Readme):
         self.certs      = ["Palo Alto Networks 🛡️", "Datagami 📊"]
         self.building   = "RetailMind (FastAPI + React + ChromaDB)"
         self.deployed   = "AWS EC2 + GitHub Actions CI/CD"
-        self.trading    = "XAUUSD · ICT Model · FundingPips & GoatFunded"
         self.interests  = ["Cybersecurity", "AI Agents", "Prop Trading"]
 ```
 
