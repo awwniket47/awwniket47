@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=200&section=header&text=Aniket&fontSize=80&fontColor=70a5fd&fontAlignY=38&desc=Developer%20·%20Builder%20·%20Cybersecurity&descAlignY=58&descSize=20&descColor=a9b1d6&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=220&section=header&text=Aniket&fontSize=90&fontColor=70a5fd&fontAlignY=40&fontAlign=50&desc=Developer%20·%20Builder%20·%20Cybersecurity&descAlignY=62&descSize=18&descColor=a9b1d6&animation=fadeIn&fontFamily=Pacifico" />
 
 <br/>
 
@@ -29,46 +29,12 @@ class Aniket(Readme):
         self.certs       = ["Palo Alto Networks 🛡️", "Datagami 📊"]
         self.building    = "RetailMind — FastAPI + React + ChromaDB 🤖"
         self.deployed_on = "AWS EC2 + GitHub Actions CI/CD ☁️"
-        self.interests   = ["Cybersecurity", "AI Agents", "Distributed Systems"]
-        self.learning    = ["Penetration Testing", "LLM Pipelines", "System Design"]
+        self.trading     = "XAUUSD · ICT Model · FundingPips & GoatFunded 📈"
+        self.interests   = ["Cybersecurity", "AI Agents", "Prop Trading"]
 
     def __repr__(self):
-        return "Always building. Always learning."
+        return "Always building. Always learning. Always trading."
 ```
-
-<br/>
-
----
-
-<div align="center">
-
-### ◈ GitHub Stats
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=awwniket47&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=a9b1d6&ring_color=70a5fd" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awwniket47&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=70a5fd&text_color=a9b1d6" height="170"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=awwniket47&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=70a5fd&ring=70a5fd&fire=ff9e64&currStreakNum=c0caf5&sideNums=c0caf5&currStreakLabel=70a5fd&sideLabels=a9b1d6&dates=565f89" />
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-### ◈ Trophies
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=awwniket47&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
-
-</div>
 
 <br/>
 
