@@ -1,13 +1,19 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Aniket+👋;Developer+%7C+Trader+%7C+Builder;XAUUSD+Scalper+📈;Cybersecurity+Enthusiast+🛡️)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=200&section=header&text=Aniket&fontSize=80&fontColor=70a5fd&fontAlignY=38&desc=Developer%20·%20Builder%20·%20Cybersecurity&descAlignY=58&descSize=20&descColor=a9b1d6&animation=fadeIn" />
 
-<!-- Profile Views + Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=awwniket47&label=Profile+Views&color=00d9ff&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/awwniket47?label=Followers&style=for-the-badge&color=00d9ff)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=70A5FD&center=true&vCenter=true&width=500&lines=Building+AI+Agents+%F0%9F%A4%96;FastAPI+%2B+React+%2B+ChromaDB;AWS+%7C+Docker+%7C+CI%2FCD;Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Always+shipping%2C+always+learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=awwniket47&label=Profile+Views&color=70a5fd&style=flat-square)&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/awwniket47?label=Followers&style=flat-square&color=70a5fd&labelColor=1a1b27)
 
 </div>
+
+<br/>
 
 ---
 
@@ -15,100 +21,122 @@
 from GitHub import Readme
 
 class Aniket(Readme):
-    """https://github.com/awwniket47/awwniket47/README.md"""
+    """https://github.com/awwniket47"""
 
     def __init__(self):
         self.name        = "Aniket"
-        self.github      = "@awwniket47"
         self.location    = "Indore, India 🇮🇳"
         self.certs       = ["Palo Alto Networks 🛡️", "Datagami 📊"]
         self.building    = "RetailMind — FastAPI + React + ChromaDB 🤖"
         self.deployed_on = "AWS EC2 + GitHub Actions CI/CD ☁️"
-        self.interests   = ["Cybersecurity", "AI Agents", "Prop Trading"]
-        self.currently   = "Hunting NY session setups & deploying agents 🚀"
+        self.interests   = ["Cybersecurity", "AI Agents", "Distributed Systems"]
+        self.learning    = ["Penetration Testing", "LLM Pipelines", "System Design"]
 
     def __repr__(self):
-        return "Always building. Always learning. Always trading."
+        return "Always building. Always learning."
 ```
 
----
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=awwniket47&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awwniket47&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-
-### 🔥 Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=awwniket47&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-</div>
+<br/>
 
 ---
 
 <div align="center">
 
-### 🏆 Trophies
+### ◈ GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=awwniket47&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=awwniket47&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=a9b1d6&ring_color=70a5fd" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awwniket47&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=70a5fd&text_color=a9b1d6" height="170"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=awwniket47&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=70a5fd&ring=70a5fd&fire=ff9e64&currStreakNum=c0caf5&sideNums=c0caf5&currStreakLabel=70a5fd&sideLabels=a9b1d6&dates=565f89" />
 
 </div>
 
+<br/>
+
 ---
 
-### 🛠️ Tech Stack
+<div align="center">
+
+### ◈ Trophies
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=awwniket47&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+
+</div>
+
+<br/>
+
+---
+
+### ◈ Tech Stack
+
+<br/>
+
+<div align="center">
 
 **Languages & Frameworks**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 
 **DevOps & Cloud**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
 
 **Security & Data**
 
-![Palo Alto Networks](https://img.shields.io/badge/Palo_Alto_Networks-FA582D?style=for-the-badge&logo=paloaltonetworks&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge&logo=databricks&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Palo Alto Networks](https://img.shields.io/badge/Palo%20Alto%20Networks-FA582D?style=flat-square&logo=paloaltonetworks&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=flat-square&logo=databricks&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
+
+</div>
+
+<br/>
 
 ---
 
 <div align="center">
 
+### ◈ Contribution Activity
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=awwniket47&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ff9e64&area=true&area_color=70a5fd)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### ◈ Contribution Snake
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/awwniket47/awwniket47/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/awwniket47/awwniket47/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/awwniket47/awwniket47/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/awwniket47/awwniket47/output/github-snake-dark.svg" />
 </picture>
 
 </div>
 
----
+<br/>
 
-<div align="center">
-
-### 📈 Contribution Activity
-
-[![Aniket's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=awwniket47&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
-*"The market reveals character. So does the commit history."*
-
-**Let's connect and build something great 🚀**
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,50:1a1b27,100:0d1117&height=120&section=footer&animation=fadeIn" />
