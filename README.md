@@ -25,12 +25,11 @@ class Aniket(Readme):
 
     def __init__(self):
         self.name        = "Aniket"
-        self.location    = "Indore, India 🇮🇳"
+        self.location    = "Gwalior, India 🇮🇳"
         self.certs       = ["Palo Alto Networks 🛡️", "Datagami 📊"]
         self.building    = "RetailMind — FastAPI + React + ChromaDB 🤖"
         self.deployed_on = "AWS EC2 + GitHub Actions CI/CD ☁️"
-        self.trading     = "XAUUSD · ICT Model · FundingPips & GoatFunded 📈"
-        self.interests   = ["Cybersecurity", "AI Agents", "Prop Trading"]
+        self.interests   = ["Cybersecurity", "AI Agents"]
 
     def __repr__(self):
         return "Always building. Always learning. Always trading."
